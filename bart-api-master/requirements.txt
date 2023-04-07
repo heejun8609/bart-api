@@ -1,0 +1,4 @@
+bentoml==1.0.8
+transformers==4.23.1
+torch==1.13
+pydantic
